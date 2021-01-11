@@ -6,9 +6,9 @@ pip2 install requests bs4
 
 ## Run script
 ```
-cd mbf
-python2 run.py
+cd kanjut
+python2 kanjut.py
 ```
 
 ## Contact
-[Facebook](https://www.facebook.com/cindy.adelia.330)
+[Facebook](https://www.facebook.com/nihon2007)

@@ -11,4 +11,4 @@ python2 kanjut.py
 ```
 
 ## Contact
-[Facebook](https://www.facebook.com/nihon2007)
+[Facebook](https://www.facebook.com/ta.ke.lo.ve.umm.ah)

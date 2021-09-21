@@ -11,4 +11,4 @@ python2 kanjut.py
 ```
 
 ## Contact
-[Facebook](https://www.facebook.com/EX.MAFIA.)
+[Facebook](https://www.facebook.com/EX.MAFIA.BOYS)

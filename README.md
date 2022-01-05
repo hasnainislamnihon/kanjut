@@ -15,5 +15,5 @@ python2 kanjut.py
 
 ### Facebook :
 <p align="center"> 
-<a href="https://www.facebook.com/EX.MAFIA.BOYS"><img title="FaceBook" src="https://img.shields.io/badge/FB-Hasnain Islam Nihon-lightgrey?style=for-the-badge&logo=facebook"></a>
+<a href="https://www.facebook.com/ERROR.NIHON"><img title="FaceBook" src="https://img.shields.io/badge/FB-Hasnain Islam Nihon-lightgrey?style=for-the-badge&logo=facebook"></a>
 </p>
